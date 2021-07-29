@@ -18,13 +18,13 @@
 
   ## User Story
   
-  ● AS A USER who loves Football, Basketball, and Baseball
-  ● I WANT TO search for a specific team or player
-  ● SO I can view historical and current statistics and stay up to date
+  * ● AS A USER who loves Football, Basketball, and Baseball
+  * ● I WANT TO search for a specific team or player
+  * ● SO I can view historical and current statistics and stay up to date
   
-  ● AS A USER who has their own recreational team (little-league or adult league)
-  ● I WANT TO add team and player statistics
-  ● SO I can keep track of data alongside professionals
+  * ● AS A USER who has their own recreational team (little-league or adult league)
+  * ● I WANT TO add team and player statistics
+  * ● SO I can keep track of data alongside professionals
 
   ## Installation
   
@@ -44,7 +44,17 @@
 
   ## Screenshots
 
+  ![B-Ball-Page](https://user-images.githubusercontent.com/77691626/127560529-0a955522-fcab-48bb-8647-fdc1443f6155.PNG)
+
   ## Project Demo Link
-  
+
+  https://mvp-sports-app.herokuapp.com/
+
   ## Questions
   
+  Feel free to ask us any questions!
+
+  * [Cameron Findlay (camjofindlay17)](#contributor)
+  * [Jada Desormeaux (JadaE789)](#contributor)
+  * [Mike Pagenkopf (mjpagenkopf)](#contributor)
+  * [Maria Jose Guerrero (mjguerrero)](#contributor)
