@@ -48,7 +48,7 @@
 
   ## Project Demo Link
 
-  https://mvp-sports-app.herokuapp.com/
+  https://sports-mvp.herokuapp.com/
 
   ## Questions
   
